@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Li Xin
 - 👀 I’m interested in AI, electronic designing and telecommunication.
-- 🌱 I’m currently learning deep learning methods in remote sensing and 
+- 🌱 I’m currently learning deep learning methods in remote sensing and human benchmark.
 - 💞️ I’m looking to collaborate on super resolution, action recognition, video prediction and so on
 - 📫 Email: 2561551088@qq.com
 - 😄 Pronouns: He
