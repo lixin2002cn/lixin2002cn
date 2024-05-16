@@ -4,10 +4,11 @@
 - 💞️ I’m looking to collaborate on super resolution, action recognition, video prediction,computational imaging and so on.
 - 📫 Email: 2561551088@qq.com
 - 📨 I want to make a pen pal
-- :man_student:
+- :man_student: Studying experience
   * Bachelor's degree, Shandong University, School of Information, Communication Engineering.
 
     Tutor: [Chao Zhai](https://scholar.google.com/citations?hl=zh-CN&user=wdj8YpwAAAAJ)
+    
   * Will enter the University of Chinese Academy of Sciences in September 2024 to pursue a doctoral degree, with the research direction being optical remote sensing signal processing.
 - :man_technologist: These are projects I attended:
   * [a cascade transformer for computational imaging](https://www.sciencedirect.com/science/article/pii/S1566253524001866)
