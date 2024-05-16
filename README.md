@@ -15,7 +15,7 @@
 - :man_technologist: Work Studying experience
   * Qingdao Anxin Ruilian Technology Co., Ltd.
     Boss:  Dr. Xing
-- :newspaper: These are projects I attended:
+- :newspaper: Projects I attended:
   * [a cascade transformer for computational imaging](https://www.sciencedirect.com/science/article/pii/S1566253524001866)
   * RS(remote sensing) super resolution using deep learning
   * [use deep learning to detect pneumonia](https://github.com/lixin2002cn/Pneumonia-detection-assistant)
