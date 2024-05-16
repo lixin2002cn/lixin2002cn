@@ -12,7 +12,10 @@
     Outstanding graduates of Shandong University in 2024
     
   * Will enter the University of Chinese Academy of Sciences in September 2024 to pursue a doctoral degree, with the research direction being optical remote sensing signal processing.
-- :man_technologist: These are projects I attended:
+- :man_technologist: Work Studying experience
+  * Qingdao Anxin Ruilian Technology Co., Ltd.
+    Boss:  Dr. Xing
+- :newspaper: These are projects I attended:
   * [a cascade transformer for computational imaging](https://www.sciencedirect.com/science/article/pii/S1566253524001866)
   * RS(remote sensing) super resolution using deep learning
   * [use deep learning to detect pneumonia](https://github.com/lixin2002cn/Pneumonia-detection-assistant)
