@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xin Li.
 - 👀 I’m interested in AI, electronic designing and telecommunication.
-- 🌱 I’m currently learning deep learning methods in remote sensing, human benchmark and time series.
-- 💞️ I’m looking to collaborate on super resolution, action recognition, video prediction,computational imaging and so on.
+- 🌟 I’m currently learning deep learning methods in remote sensing, human benchmark and time series.
+- 😃 I’m looking to collaborate on super resolution, action recognition, video prediction,computational imaging and so on.
 - 📫 Email: 2561551088@qq.com
 - 📨 I want to make a pen pal
 - :man_student: Studying experience
