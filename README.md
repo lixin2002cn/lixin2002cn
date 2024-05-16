@@ -7,11 +7,11 @@
 - :man_student: Bachelor's degree, Shandong University, School of Information, Communication Engineering.
 - :man_technologist: Will enter the University of Chinese Academy of Sciences in September 2024 to pursue a doctoral degree, with the research direction being optical remote sensing signal processing.
 - 📄 These are projects I attended:
-  * a cascade transformer for computational imaging
+  * [a cascade transformer for computational imaging](https://www.sciencedirect.com/science/article/pii/S1566253524001866)
   * RS(remote sensing) super resolution using deep learning
-  * use deep learning to detect pneumonia
+  * [use deep learning to detect pneumonia](https://github.com/lixin2002cn/upper-computer)
   * action recognition using C3D, P3D and so on
-  * future frames prediction using openstl
+  * future water body frames prediction using openstl
   * a upper computer software using C sharp
 - :computer: the program language I use:
   * Python
