@@ -14,6 +14,7 @@
   * Will enter the University of Chinese Academy of Sciences in September 2024 to pursue a doctoral degree, with the research direction being optical remote sensing signal processing.
 - :man_technologist: Work Studying experience
   * Qingdao Anxin Ruilian Technology Co., Ltd.
+    
     Boss:  Dr. Xing
 - :newspaper: Projects I attended:
   * [a cascade transformer for computational imaging](https://www.sciencedirect.com/science/article/pii/S1566253524001866)
