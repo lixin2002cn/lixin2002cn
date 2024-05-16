@@ -12,6 +12,12 @@
   * use deep learning to detect pneumonia
   * action recognition using C3D, P3D and so on
   * future frames prediction using openstl
+  * a upper computer software using C sharp
+- :computer: the program language I use:
+  * Python
+  * C sharp
+  * Matlab
+  * HTML
 
 <!---
 lixin2002cn/lixin2002cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
