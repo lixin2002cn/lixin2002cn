@@ -6,6 +6,7 @@
 - 📨 I want to make a pen pal
 - :man_student:
   * Bachelor's degree, Shandong University, School of Information, Communication Engineering.
+
     Tutor: [Chao Zhai](https://scholar.google.com/citations?hl=zh-CN&user=wdj8YpwAAAAJ)
   * Will enter the University of Chinese Academy of Sciences in September 2024 to pursue a doctoral degree, with the research direction being optical remote sensing signal processing.
 - :man_technologist: These are projects I attended:
