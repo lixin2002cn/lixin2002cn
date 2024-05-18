@@ -9,7 +9,7 @@
 
     Tutor: [Chao Zhai](https://scholar.google.com/citations?hl=zh-CN&user=wdj8YpwAAAAJ)
 
-    Outstanding graduates of Shandong University in 2024
+    Outstanding graduates of Shandong University in 2024; National Inspirational Scholarship\*2; Shandong Provincial Government Inspirational Scholarship\*1; Shandong University Academic Scholarship\*3
     
   * Will enter the University of Chinese Academy of Sciences in September 2024 to pursue a doctoral degree, with the research direction being optical remote sensing signal processing.
 - :man_technologist: Work Studying experience
