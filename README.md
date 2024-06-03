@@ -7,7 +7,7 @@
 - :man_student: Studying experience
   * Bachelor's degree, Shandong University, School of Information, Communication Engineering.
 
-    Tutor: [Chao Zhai](https://scholar.google.com/citations?hl=zh-CN&user=wdj8YpwAAAAJ)
+    Tutor: Prof. [Chao Zhai](https://scholar.google.com/citations?hl=zh-CN&user=wdj8YpwAAAAJ)
 
     One of the  outstanding graduates of Shandong University in 2024; National Inspirational Scholarship\*2; Shandong Provincial Government Inspirational Scholarship\*1; Shandong University Academic Scholarship\*3; Yiduo Academy Specialty Scholarship\*2
     
