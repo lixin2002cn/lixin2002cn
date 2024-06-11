@@ -23,7 +23,7 @@
   * action recognition using C3D, P3D and so on
   * future water body frames prediction using openstl
   * [an upper computer software using C sharp](https://github.com/lixin2002cn/upper-computer)
-- :computer: the program language I use:
+- :computer: the program languages I use:
   * Python
   * C sharp
   * Matlab
