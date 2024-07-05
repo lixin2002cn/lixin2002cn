@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xin Li.
-- 👀 I’m interested in AI, electronic designing and telecommunication.
+- 👀 I’m interested in AI, electronic designing and communication.
 - 🌟 I’m currently learning deep learning methods in remote sensing image restoration, human benchmark tasks, time series and affective computing.
 - 😃 I’m looking to collaborate on low level visual task, action recognition, video prediction,computational imaging, HSI and MSI fusion,affective computing  and so on.
 - 📫 Email: 2561551088@qq.com
