@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, electronic designing and intelligent communication network.
 - 🌟 I’m currently learning deep learning methods in remote sensing image restoration, human benchmark tasks, time series and affective computing.
 - 😃 I’m looking to collaborate on low level visual task, action recognition, video prediction,computational imaging, HSI and MSI fusion,affective computing  and so on.
-- 📫 Email: 2561551088@qq.com
+- 📫 Email: lixin2002cn@gmail.com
 - 📨 I want to make a pen pal
 - :man_student: Studying experience
   * Bachelor's degree, Shandong University, School of Information, Communication Engineering.
