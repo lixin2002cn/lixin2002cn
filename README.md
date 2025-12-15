@@ -1,1 +1,1 @@
-- 👋 You can get to know me from my personal homepage: https://lixin2002cn.github.io/
+- 👋 You can get to know me from my personal homepage: https://xinli.pub/
